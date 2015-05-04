@@ -1,0 +1,2 @@
+# Plugins
+Plugins del server
